@@ -1,0 +1,9 @@
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "content/home/piko"]
+	path = content/home/piko
+	url = https://github.com/heksagonnet/piko.git
+[submodule "themes/piko"]
+	path = themes/piko
+	url = https://github.com/heksagonnet/piko.git
