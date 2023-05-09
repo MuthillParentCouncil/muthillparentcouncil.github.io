@@ -63,11 +63,11 @@ params:
   contactFormAction: https://formspree.io/f/xdopjdor
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /uploads/community-dark.png
+    favicon16x16: /uploads/community-dark.png
+    favicon32x32: /uploads/community-dark.png
+    apple_touch_icon: /uploads/community-dark.png
+    safari_pinned_tab: /uploads/community-dark.png
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:
