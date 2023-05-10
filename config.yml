@@ -71,8 +71,8 @@ params:
     heroUpperTitle: 
     heroTitle: Muthill Parent Council
     heroDescription: Supporting the parents of Muthill Primary School
-    heroCTAPrimaryText: Blog
-    heroCTAPrimaryUrl: "/blog/"
+    heroCTAPrimaryText: Meet the Council
+    heroCTAPrimaryUrl: "/council/"
     heroCTASecondaryText: Contact Us
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "./uploads/portfolio-1.webp"
@@ -92,17 +92,29 @@ params:
     portfolioTitle: The Parent Council
     portfolioDescription: ""
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /uploads/chair.jpg
+      alt: Chairperson
+      description: Chairperson - Chris
+      websiteUrl: /council/chair
+    - imageUrl: /uploads/treasurer.jpg
+      alt: Treasurer
+      description: Treasurer - Nicki
+      websiteUrl: /council/treasurer
+    - imageUrl: /uploads/chair.jpg
+      alt: Secretary
+      description: Secretary
+      websiteUrl: #
+    - imageUrl: /uploads/treasurer.jpg
       alt: # image alt for better SEO
       description: Portfolio One.
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
+    - imageUrl: /uploads/chair.jpg
       alt: # image alt for better SEO
-      description: Portfolio Two.
+      description: Portfolio One.
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
+    - imageUrl: /uploads/treasurer.jpg
       alt: # image alt for better SEO
-      description: Portfolio Three.
+      description: Portfolio One.
       websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
