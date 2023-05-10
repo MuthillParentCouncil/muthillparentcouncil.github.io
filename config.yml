@@ -1,5 +1,3 @@
----
-baseURL: https://gregsutcliffe.github.io/muthill-parent-council/
 languageCode: en-gb
 title: Muthill Parent Council
 theme: piko
@@ -11,6 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+relativeURLS: true
 outputs:
   home:
   - HTML
