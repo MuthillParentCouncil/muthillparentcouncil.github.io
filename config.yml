@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-relativeURLS: true
 outputs:
   home:
   - HTML
@@ -75,7 +74,7 @@ params:
     heroCTAPrimaryUrl: "/council/"
     heroCTASecondaryText: Contact Us
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "./uploads/portfolio-1.webp"
+    heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
@@ -139,17 +138,17 @@ menus:
   - name: Blog
     title: Blog
     pre: pen-tool
-    url: "./blog"
+    url: "/blog"
     weight: "20"
   - name: Search
     title: Search
     pre: search
-    url: "./search"
+    url: "/search"
     weight: "30"
   - name: Contact
     title: Contact
     pre: mail
-    url: "./contact"
+    url: "/contact"
     weight: "40"
   - name: Github
     title: 
@@ -159,13 +158,13 @@ menus:
   search: # Search page's quick links
   - name: Categories
     title: Categories
-    url: "./categories"
+    url: "/categories"
     weight: "10"
   - name: Archives
     title: Archives
-    url: "./archives"
+    url: "/archives"
     weight: "20"
   - name: Tags
     title: Tags
-    url: "./tags"
+    url: "/tags"
     weight: "30"
