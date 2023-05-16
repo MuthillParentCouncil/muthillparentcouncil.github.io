@@ -16,10 +16,16 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
         >{{.Site.Params.homepage.heroCTAPrimaryText}}</a
       >
       <a
+        class="hero-buttons"
         href="{{ .Site.Params.homepage.heroCTASecondaryUrl | relURL  }}"
         role="button"
-        class="contrast outline"
         >{{.Site.Params.homepage.heroCTASecondaryText}}</a
+      >
+      <a
+        href="{{ .Site.Params.homepage.heroCTAContactURL | relURL  }}"
+        role="button"
+        class="contrast outline"
+        >{{.Site.Params.homepage.heroCTAContactText}}</a
       >
     </div>
   </header>

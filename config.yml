@@ -72,8 +72,10 @@ params:
     heroDescription: Supporting the parents of Muthill Primary School
     heroCTAPrimaryText: Meet the Council
     heroCTAPrimaryUrl: "/council/"
-    heroCTASecondaryText: Contact Us
-    heroCTASecondaryUrl: "/contact/"
+    heroCTASecondaryText: Parent Resources
+    heroCTASecondaryUrl: "/resources/"
+    heroCTAContactText: Contact Us
+    heroCTAContactUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
