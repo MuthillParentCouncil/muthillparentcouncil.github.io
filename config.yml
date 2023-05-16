@@ -140,20 +140,20 @@ menus:
     pre: pen-tool
     url: "/blog"
     weight: "20"
+  - name: Resources
+    title: Resources
+    pre: briefcase
+    url: "/resources"
+    weight: "30"
   - name: Search
     title: Search
     pre: search
     url: "/search"
-    weight: "30"
+    weight: "40"
   - name: Contact
     title: Contact
     pre: mail
     url: "/contact"
-    weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/heksagonnet/piko
     weight: "50"
   search: # Search page's quick links
   - name: Categories
