@@ -1,6 +1,10 @@
 ---
 title: Complaints Process
+author: Greg
 description: How to make a complaint to PKC
+showRelated: true
+tags: ["resources", "complaints"]
+categories: ["resources"]
 ---
 
 This is how to make a complaint!
